@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="formLogin">
+        <h1>login</h1>
+        <h3>wellcome!!</h3>
+        <form action="javascript:void(0);" method="POST" onsubmit="login()">
+            <input type="text" id="add-userName" placeholder="enter userName:">
+            <input type="password" id="add-password" placeholder="enter password:">
+            <input type="submit" value="login">
+        </form>
+    </div>
+</body>
+<script src="login.js" asp-append-version="true"></script>
+<style>
+    body {
+        background-image: url(צילום\ מסך\ 2022-01-25\ 224952.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: fixed;
+        background-attachment: fixed;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    #formLogin {
+        margin: 5%;
+        color: white;
+        width: 45vh;
+        background-color: rgb(180, 180, 180);
+        padding: 30px;
+        border-radius: 3px;
+    }
+
+    input {
+        background-color: #1f8b4c;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        width: 30vh;
+    }
+
+    ::placeholder {
+        color: white;
+        opacity: 0.8;
+    }
+</style>
+
+</html>

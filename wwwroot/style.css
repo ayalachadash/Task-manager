@@ -1,0 +1,71 @@
+body{
+    background-image: url(pi1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tbl{
+    background-color: white;
+}
+
+input[type='submit'],
+button,
+[aria-label] {
+    cursor: pointer;
+}
+
+#editForm {
+    display: none;
+}
+
+table {
+    font-family: Arial, sans-serif;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #f8f8f8;
+    padding: 5px;
+}
+
+td {
+    border: 1px solid;
+    padding: 5px;
+}
+#manager{
+    display: none;
+}
+input{
+    background-color: #1f8b4c;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 20vh;
+}
+::placeholder{
+    color: white;
+    opacity: 0.8;
+}
+#admin{
+    padding: 14px 20px;
+    margin: 8px 0;
+    width:30vh;
+}
+#deleteTaskIsDone{
+    padding: 14px 20px;
+    margin: 8px 0;
+    width:30vh;
+}
+
+#everyTask{
+    /* color: white; */
+    margin: 5%;
+    width: 58%;
+    background-color: rgb(180, 180, 180);
+    padding: 30px;
+    border-radius: 3px;
+}

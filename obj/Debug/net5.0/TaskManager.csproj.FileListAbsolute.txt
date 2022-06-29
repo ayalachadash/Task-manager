@@ -1,0 +1,112 @@
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\appsettings.Development.json
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\appsettings.json
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\TaskManager.exe
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\TaskManager.deps.json
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\TaskManager.runtimeconfig.json
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\TaskManager.runtimeconfig.dev.json
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\TaskManager.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\ref\TaskManager.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\TaskManager.pdb
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.csproj.AssemblyReference.cache
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.AssemblyInfoInputs.cache
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.AssemblyInfo.cs
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.Manifest.cache
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.xml
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\scopedcss\bundle\TaskManager.styles.css
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.RazorTargetAssemblyInfo.cache
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.csproj.CopyComplete
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\ref\TaskManager.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.pdb
+C:\תכנות יד\.NET CORE\try3000\TaskManager\obj\Debug\net5.0\TaskManager.genruntimeconfig.cache
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Task.json
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\User.json
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\תכנות יד\.NET CORE\try3000\TaskManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\appsettings.json
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Task.json
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\User.json
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\appsettings.Development.json
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\TaskManager.exe
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\TaskManager.deps.json
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\TaskManager.runtimeconfig.json
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\TaskManager.runtimeconfig.dev.json
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\TaskManager.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\ref\TaskManager.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\TaskManager.pdb
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.csproj.AssemblyReference.cache
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.AssemblyInfoInputs.cache
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.AssemblyInfo.cs
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.MvcApplicationPartsAssemblyInfo.cs
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.Manifest.cache
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.xml
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\scopedcss\bundle\TaskManager.styles.css
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.RazorTargetAssemblyInfo.cache
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\ref\TaskManager.dll
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.pdb
+C:\המחשב שלי\לימודים\dotnet\של המורה\TaskManager\obj\Debug\net5.0\TaskManager.genruntimeconfig.cache
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\appsettings.Development.json
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\appsettings.json
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Task.json
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\User.json
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\TaskManager.exe
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\TaskManager.deps.json
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\TaskManager.runtimeconfig.json
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\TaskManager.runtimeconfig.dev.json
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\TaskManager.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\ref\TaskManager.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\TaskManager.pdb
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.csproj.AssemblyReference.cache
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.AssemblyInfoInputs.cache
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.AssemblyInfo.cs
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.MvcApplicationPartsAssemblyInfo.cs
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.Manifest.cache
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\staticwebassets\TaskManager.StaticWebAssets.xml
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\scopedcss\bundle\TaskManager.styles.css
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.RazorTargetAssemblyInfo.cache
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\ref\TaskManager.dll
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.pdb
+C:\המחשב שלי\לימודים\dotnet\TaskManager\obj\Debug\net5.0\TaskManager.genruntimeconfig.cache
